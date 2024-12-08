@@ -1,3 +1,5 @@
+### 🛠️ Under Revamping - New Version INCOMING SOON (Oasis Terminal)
+
 # OASISv1.0.1 - A Decentralized p2p Chat App
 
 OASISv1.0.1 is a lightweight decentralized chat application inspired by the retro look of Windows 98. This application enables users to generate unique user IDs for anonymous and private communication with peers. The app ensures complete control over user privacy by not storing any user data on servers. Each session requires a new user ID, and all communications are encrypted using [SeaBlockJS](https://www.npmjs.com/package/seablockjs).
